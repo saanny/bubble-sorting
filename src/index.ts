@@ -1,0 +1,21 @@
+import { NumbersCollection } from "./NumbersCollection";
+import { CharactersCollection } from "./CharactersCollection";
+import { LinkedList } from "./LinkedList";
+// const numbersCollection = new NumbersCollection([19, 4, 3, 5, -1]);
+// const sort = new Sorter(numbersCollection);
+// sort.sort();
+// console.log(numbersCollection.data);
+// numbersCollection.sort();
+// console.log(numbersCollection.data);
+// const charactersCollection = new CharactersCollection("XysdsZggsds");
+
+// const sort = new Sorter(charactersCollection);
+// sort.sort();
+// charactersCollection.sort();
+// console.log(charactersCollection.data);
+// const linkeList = new LinkedList();
+// linkeList.add(200);
+// linkeList.add(49);
+// linkeList.add(20);
+// linkeList.sort();
+// linkeList.print();
